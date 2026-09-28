@@ -1,1 +1,0 @@
-# Daytime-and-Nighttime-Temperature-Burden-by-Disease

@@ -1,0 +1,11 @@
+data/
+results/
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+*.log
+*.qs
+*.rds
+*.xlsx
